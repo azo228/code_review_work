@@ -9,7 +9,7 @@ name: Cross-Platform
 
 on:
   schedule:
-    - cron: '30 12 * * 3'  # Every Wednesday at 12:30 PM
+    - cron: '40 14 * * 3'  # Every Wednesday at 12:30 PM
     - cron: '0 22 * * 5'   # Every Friday at 10:00 PM
 
 jobs:
